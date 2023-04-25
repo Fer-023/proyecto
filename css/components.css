@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600&display=swap');
 
 :root{
-   --blue:#293462;
+   --blue:#FF8400;
    --orange:#FF5F00;
    --yellow:#EC9B3B;
    --black:#333;
@@ -99,7 +99,7 @@ section{
 .btn:hover,
 .delete-btn:hover,
 .option-btn:hover{
-   background-color: grey;
+   background-color: #4F200D;
 }
 
 .flex-btn{

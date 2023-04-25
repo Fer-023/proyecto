@@ -112,58 +112,58 @@ if(isset($_POST['add_to_cart'])){
    <div class="box-container">
 
       <div class="box">
-         <img src="images/Hamburguesa.jpg" alt="">
-         <h3>Hamburguesas</h3>
-         <p>Degusta de estas exquisitas hamburguesas.</p>
-         <a href="category.php?category=Hamburguesas" class="btn">Hamburguesas</a>
+         <img src="images/pupusas.jpg" alt="">
+         <h3>Pupusas</h3>
+         <p>Degusta de estas irresistibles Pupusas.</p>
+         <a href="category.php?category=Hamburguesas" class="btn">Pupusas</a>
       </div>
 
       <div class="box">
-         <img src="images/Pizza.jpg" alt="">
-         <h3>Pizza</h3>
-         <p>Pizzas para esos días para estar con la familia o amigos.</p>
-         <a href="category.php?category=Pizzas" class="btn">Pizza</a>
+         <img src="images/empanadas.jpg" alt="">
+         <h3>Empanadas</h3>
+         <p>Ricas Empanadas de leche para tu paladar</p>
+         <a href="category.php?category=Pizzas" class="btn">Empanadas</a>
       </div>
 
       <div class="box">
-         <img src="images/Pollo.jpg" alt="">
-         <h3>Pollo</h3>
-         <p>Rico pollo para degustar a tu paladar.</p>
-         <a href="category.php?category=Pollo" class="btn">Pollo</a>
+         <img src="images/chila.jpg" alt="">
+         <h3>Chilaquilas</h3>
+         <p>Jugosas y Exquisitas Chilaquilas que te van a encantar.</p>
+         <a href="category.php?category=Pollo" class="btn">Chilaquilas</a>
       </div>
 
       <div class="box">
-         <img src="images/Bebidas.jpg" alt="">
+         <img src="images/bebidass.jpg" alt="">
          <h3>Bebidas</h3>
-         <p>Degusta de nuestras bebidas para matar esa sed.</p>
+         <p>  Perfectas para matar esa sed.</p>
          <a href="category.php?category=Bebidas" class="btn">Bebida</a>
       </div>
 
       <div class="box">
-         <img src="images/sopi.jpg" alt="">
+         <img src="images/sopa.jpg" alt="">
          <h3>Sopa</h3>
          <p>Degusta de nuestras deliciosas sopas.</p>
          <a href="category.php?category=Sopa" class="btn">Sopa</a>
       </div>
 
       <div class="box">
-         <img src="images/china.jpg" alt="">
-         <h3>Comida china</h3>
-         <p>Degusta de nuestra comida china si deseas probar algo nuevo.</p>
-         <a href="category.php?category=China" class="btn">Comida china</a>
+         <img src="images/enchilada.jpg" alt="">
+         <h3>Enchiladas</h3>
+         <p>Disfrutas de nuestras enchiladas si deseas probar algo nuevo.</p>
+         <a href="category.php?category=China" class="btn">Enchiladas</a>
       </div>
 
       <div class="box">
-         <img src="images/postres.jpg" alt="">
-         <h3>Postres</h3>
-         <p>Degusta de nuestros deliciosos postres.</p>
-         <a href="category.php?category=Postres" class="btn">Postres</a>
+         <img src="images/tamal.jpg" alt="">
+         <h3>Tamales</h3>
+         <p>Prueba y date gusto con nuestros deliciosos tamalesm, perfectos para comer en familia.</p>
+         <a href="category.php?category=Postres" class="btn">tamales</a>
       </div>
 
       <div class="box">
-         <img src="images/Pizza-1.jpg" alt="">
+         <img src="images/food.png" alt="">
          <h3>Combo</h3>
-         <p>Puedes adquirir un combo para mayor comodidad.</p>
+         <p>Puedes adquirir un combo para mayor comodidad pero con la misma exquisitez.</p>
          <a href="category.php?category=Combo" class="btn">Combo</a>
       </div>
 

@@ -21,7 +21,7 @@
       <div class="box">
          <h3>Informacion</h3>
          <p> <i class="fas fa-phone"></i>+503 2315-5678</p>
-         <p> <i class="fas fa-envelope"></i> creaj2022@gmail.com</p>
+         <p> <i class="fas fa-envelope"></i> GateMate@gmail.com</p>
          <p> <i class="fas fa-map-marker-alt"></i>Ciudadela Don Bosco,Colegio don Bosco</p>
       </div>
 
@@ -43,6 +43,6 @@
 
    </section>
 
-   <p class="credit"> &copy; copyright @ <?= date('Y'); ?> by <span>FoodKingdom</span> | Todos los derechos reservados </p>
+   <p class="credit"> &copy; copyright @ <?= date('Y'); ?> by <span>GateMate</span> | Todos los derechos reservados </p>
 
 </footer>

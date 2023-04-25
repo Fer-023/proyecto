@@ -136,7 +136,7 @@ if(isset($_POST['add_to_cart'])){
          <img src="images/bebidass.jpg" alt="">
          <h3>Bebidas</h3>
          <p>  Perfectas para matar esa sed.</p>
-         <a href="category.php?category=Bebidas" class="btn">Bebida</a>
+         <a href="category.php?category=Bebidas" class="btn">sisisi</a>
       </div>
 
       <div class="box">

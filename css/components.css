@@ -168,6 +168,7 @@ section{
 
 .login-wp{
    background-image: url(../images/prueba.jpg);
+   background-size: cover;
    background-position: center;
 }
 
